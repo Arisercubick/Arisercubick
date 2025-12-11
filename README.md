@@ -6,7 +6,7 @@
 
 - I’m currently working on **myself**
 
-- 📖 I’m currently learning **C++, Java, C#, Python**
+- 📖 I’m currently learning **Java, C++, Python, C#**
 
 - Reach me through **Discord: @arisercubick**
 
@@ -14,11 +14,12 @@
 
 # 💻 Tech Stack:
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<a href="https://en.wikipedia.org/wiki/JavaScript">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a><a href="https://en.wikipedia.org/wiki/Java_(programming_language)"> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)</a> <a href="https://en.wikipedia.org/wiki/HTML">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a> <a href"https://en.wikipedia.org/wiki/Python_(programming_language)">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
 
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Arisercubick&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Arisercubick&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arisercubick&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
