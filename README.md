@@ -1,4 +1,4 @@
-﻿# <h1 align="center">Aris John Apolinario</h1>
+# <h1 align="center">Aris John Apolinario</h1>
 
 <h3 align="center">A passionate Computer Science Student from 🍁Canada🍁</h3>
 
@@ -10,7 +10,7 @@
 
 - Reach me through **Discord: @arisercubick**
 
-- ⚡ Fun fact **I'm lonely**
+- ⚡ Fun fact **I'm a person who loves to play and experiment**
 
 # 💻 Tech Stack:
 
