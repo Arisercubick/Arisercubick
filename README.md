@@ -16,10 +16,8 @@
 
 <a href="https://en.wikipedia.org/wiki/Java_(programming_language)"> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)</a> <a href="https://en.wikipedia.org/wiki/JavaScript">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</a> <a href="https://en.wikipedia.org/wiki/HTML">![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</a> <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</a>
 
-# 📊 GitHub Stats:
-
-
 ![](https://nirzak-streak-stats.vercel.app/?user=Arisercubick&theme=tokyonight&hide_border=false)<br/>
+
 
 
 
