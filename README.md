@@ -6,7 +6,7 @@
 
 - I’m currently working on **myself**
 
-- 📖 I’m currently learning **Java, Python, C#**
+- 📖 I’m currently learning **Java, SQL, Javascript**
 
 - Reach me through **Discord: @arisercubick**
 
